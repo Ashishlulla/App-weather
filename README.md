@@ -1,3 +1,3 @@
-# App-weathe
+# App-weather
 
-A Simple Weather App created using HTML, CSS and Javascript.
+A Simple Weather App created using HTML, CSS, and JavaScript.
